@@ -25,17 +25,7 @@ We were given three datasets for this task: two training datasets and one testin
 
 5. **Model Evaluation:** Applying various machine learning models and ensembling techniques, followed by evaluating their performance using ROC-AUC scores.
 
-**Contents:**
 
-- `notebooks/`: Jupyter notebooks for data preprocessing, exploratory data analysis, and model evaluation.
-- `results/`: Results and evaluation metrics saved as CSV files.
-- `README.md`: Readme file providing an overview of the repository and instructions for use.
-
-
-**References:**
-
-- Dataset: [2009 National H1N1 Flu Survey (NHFS)](https://www.cdc.gov/flu/pandemic-resources/national-2009-h1n1-flu-survey-datasets.htm)
-- Kaggle Competition: [Predicting Vaccine Uptake](https://www.kaggle.com/c/h1n1-flu-shot/overview)
 
 **Contributors:**
 
